@@ -78,8 +78,8 @@ ga_domain: gautrucdo.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: ""
-sidebar-avatar: /img/f.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Xin chào, đây là blog của mình !!!"
+sidebar-avatar: /img/face.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
